@@ -1,1 +1,2 @@
-pehla c code 
+pehla c code
+c code ki doosri line
